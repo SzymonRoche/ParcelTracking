@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ParcelTracking/precache-manifest.8c2f22c5426d913b7a586ece879491dc.js"
+  "/ParcelTracking/precache-manifest.812ce00018512343e908d70fa78ceb0b.js"
 );
 
 self.addEventListener('message', (event) => {

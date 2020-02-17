@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3f9abf3f106c5e72e16923b297a4e98",
+    "revision": "2bb284c44cc38eaf333dc067ebe96fe0",
     "url": "/ParcelTracking/index.html"
   },
   {
-    "revision": "e73cc5f8b3ffccaa4065",
+    "revision": "7a11b3b3429f5a3c6c74",
     "url": "/ParcelTracking/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ParcelTracking/static/js/2.81402975.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e73cc5f8b3ffccaa4065",
-    "url": "/ParcelTracking/static/js/main.5ad62153.chunk.js"
+    "revision": "7a11b3b3429f5a3c6c74",
+    "url": "/ParcelTracking/static/js/main.6806b69d.chunk.js"
   },
   {
     "revision": "12444b86582f5d3519f4",
