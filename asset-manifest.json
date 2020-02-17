@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ParcelTracking/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ParcelTracking/static/js/main.6e1d4cdc.chunk.js",
+    "main.js.map": "/ParcelTracking/static/js/main.6e1d4cdc.chunk.js.map",
+    "runtime-main.js": "/ParcelTracking/static/js/runtime-main.0a234e96.js",
+    "runtime-main.js.map": "/ParcelTracking/static/js/runtime-main.0a234e96.js.map",
+    "static/js/2.81402975.chunk.js": "/ParcelTracking/static/js/2.81402975.chunk.js",
+    "static/js/2.81402975.chunk.js.map": "/ParcelTracking/static/js/2.81402975.chunk.js.map",
+    "index.html": "/ParcelTracking/index.html",
+    "precache-manifest.b9b38043c3cafdc2a1372c7f7e94a01f.js": "/ParcelTracking/precache-manifest.b9b38043c3cafdc2a1372c7f7e94a01f.js",
+    "service-worker.js": "/ParcelTracking/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ParcelTracking/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.81402975.chunk.js.LICENSE.txt": "/ParcelTracking/static/js/2.81402975.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ParcelTracking/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a234e96.js",
+    "static/js/2.81402975.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6e1d4cdc.chunk.js"
+  ]
+}
