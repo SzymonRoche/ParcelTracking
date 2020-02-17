@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  fetch("http://api.nbp.pl/api/cenyzlota").then(res => res.json()).then(res => console.log(res))
+  fetch("https://tracking.phse.com/griglie/esiti_servizio/grid_esiti_sped.php?idquery=1&IdSped=585171&_search=false&nd=1581944042826&rows=100&page=1&sidx=&sord=").then(res => res.json()).then(res => console.log(res))
   return (
     <div className="App">
       <header className="App-header">
